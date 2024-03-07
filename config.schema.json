@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "Winker",
   "pluginType": "platform",
   "singular": true,
   "schema": {
